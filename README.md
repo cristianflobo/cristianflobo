@@ -2,7 +2,7 @@
 
 Mi nombre es CRISTIAN LOBO 👋
 
-Soy desarrollador Full Stack y Tecnólogo en telecomunicaciones. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python  | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Web Socket IO | Material IU | Vercel | Heroku | Supabase | Next Js | React Native |  TypeScript | Ruby | Ruby on Rails.
+Soy desarrollador Full Stack y Tecnólogo electronico. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python  | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Heroku |React Native |  TypeScript |
 
 🧑 ¿Cómo me defino?
 Me considero apasionado por la programación, Una persona emprendedora con muchas ideas en el área de la información una persona apasionada por el aprendizaje constante de nuevas tecnologías y a la espera de los nuevos desafíos. Me encanta tener buena relaciones, mejorando la comunicación constante. Tengo constante búsqueda del progreso personal apoyando el desarrollo grupal de mis actividades cotidianas.
