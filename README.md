@@ -43,10 +43,10 @@ TYPE SCRIPT |
 
     Extras
     
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbookface-images.s3.amazonaws.com%2Flogos%2F08f3d41684b91f7d68810459b2356ecb4819c382.png&f=1&nofb=1" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdc722jrlp2zu8.cloudfront.net%2Fmedia%2Fcache%2F6e%2Fd2%2F6ed2408abf9bd0038b587018a116879d.jpg&f=1&nofb=1" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| SUPABASE  | SOCKET IO | HEROKU  | VERCEL | FIGMA | GIT |
-    
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
+ :------------: | :------------: | :------------: | :------------: |
+| HEROKU  | VERCEL | FIGMA | GIT |
+    4
 ********
 
 <h1 align="center"> Mis Proyectos </h1>
