@@ -1,6 +1,6 @@
 <img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80" alt="c" width="1000" height="300"/>
 
-Mi nombre es MARTIN JULIAN RUIZ 👋
+Mi nombre es CRISTIAN LOBO 👋
 
 Soy desarrollador Full Stack y Tecnólogo en telecomunicaciones. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript | Python  | NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Web Socket IO | Material IU | Vercel | Heroku | Supabase | Next Js | React Native |  TypeScript | Ruby | Ruby on Rails.
 
@@ -9,12 +9,12 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 ********
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=MJULIAN90&theme=radical' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=cristianflobo&theme=radical' />
 </p>
 
 ********
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=MJULIAN90&show_icons=true&theme=radical' />
+<img src='https://github-readme-stats.vercel.app/api?username=cristianflobo&show_icons=true&theme=radical' />
 </p>
 
 ********
