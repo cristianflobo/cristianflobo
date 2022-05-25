@@ -43,9 +43,9 @@ TYPE SCRIPT |
 
     Extras
     
-| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS">  | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogovtor.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fvercel-inc-logo-vector.png&f=1&nofb=1" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
+| <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FHeroku_logo.png&f=1&nofb=1" width="60" alt="JS"> | <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" alt="REACT"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" alt="REACT"> |
  :------------: | :------------: | :------------: | :------------: |
-| HEROKU  | VERCEL | FIGMA | GIT |
+| HEROKU  | FIGMA | GIT |
     4
 ********
 
