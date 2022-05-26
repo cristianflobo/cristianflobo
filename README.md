@@ -55,7 +55,7 @@ Quieres saber más sobre mi?, ¡contáctame! <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/Julian-Ruiz-V/">
  www.linkedin.com/in/Julian-Ruiz-V
 </a> <br/>
-✔ WP: <a href="https://api.whatsapp.com/send?phone=3012321966&text=Hola%20,%20Dejame%20tu%20mensaje%20!%20Pronto%20te%20respondere!" target="_blank">+57 318 643 67 32 </a> (WhatsApp) <br/>
-✔ E-mail: michaeljulian50@gmail.com <br/>
+✔ WP: <a href="https://api.whatsapp.com/send?phone=3012321966&text=Hola%20,%20Dejame%20tu%20mensaje%20!%20Pronto%20te%20respondere!" target="_blank">+57 320 763 99 24 </a> (WhatsApp) <br/>
+✔ E-mail: cristianflobo@hotmail.com<br/>
 </p>
 
