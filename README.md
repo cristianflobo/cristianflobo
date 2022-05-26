@@ -49,4 +49,7 @@ TYPE SCRIPT |
     
 ********
 
-
+Quieres saber más sobre mi?, ¡contáctame!
+✔ Linkedin: www.linkedin.com/in/Julian-Ruiz-V
+✔ WP: +57 318 643 67 32 (WhatsApp)
+✔ E-mail: michaeljulian50@gmail.com
