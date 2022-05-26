@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1607743386760-88ac62b89b8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1650&q=80" alt="c" width="1000" height="300"/>
+<img src="https://conceptodefinicion.de/wp-content/uploads/2019/08/Computaci%C3%B3n-1.jpg" alt="c" width="1000" height="300"/>
 
 Mi nombre es CRISTIAN LOBO 👋
 
