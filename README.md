@@ -1,7 +1,9 @@
 <img src="https://conceptodefinicion.de/wp-content/uploads/2019/08/Computaci%C3%B3n-1.jpg" alt="c" width="1000" height="300"/>
 
 Mi nombre es CRISTIAN LOBO 👋
+
 Mi portafolio https://cristian-portafolio.herokuapp.com/
+
 Soy desarrollador Full Stack y Tecnólogo electronico. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript |  NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Heroku |React Native |  TypeScript |
 
 🧑 ¿Cómo me defino?
