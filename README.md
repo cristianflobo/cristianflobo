@@ -29,10 +29,9 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 
     Front End 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> |  <img src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg" width="60" alt="REACT"> | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="React Native"> |
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | REACT NATIVE  | 
-
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> |  <img src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg" width="60" alt="REACT"> | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="React Native"> | <img src="https://www.electronjs.org/assets/img/logo.svg" alt="reactnative" width="60" alt="React Native"> | 
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | REACT NATIVE  |  ELECTRON  | 
 
 
 
