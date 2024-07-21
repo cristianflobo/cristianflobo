@@ -41,7 +41,7 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
     En Curso
 
-| <img src="https://docs.angular.lat/assets/images/logos/angular/shield-large.svg" width="70" alt="ANGULAR"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thu…-logo-notext.svg/100px-Python-logo-notext.svg.png" width="70" alt="PYTHON">
+| <img src="https://docs.angular.lat/assets/images/logos/angular/shield-large.svg" width="70" alt="ANGULAR"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/100px-Python-logo-notext.svg.png" width="70" alt="PYTHON">
 | :------------: | :------------: |
 ANGULAR | PYTHON |
 
