@@ -2,7 +2,7 @@
 
 Mi nombre es CRISTIAN LOBO 👋
 
-Mi portafolio https://cristian-portafolio.herokuapp.com/
+Mi portafolio https://portafolio-khaki-beta.vercel.app/
 
 Soy desarrollador Full Stack y Tecnólogo electronico. Mi pasión es la programación y el aprendizaje de nuevas tecnologías para el desarrollo, con tendencia a la inteligencia artificial y la ciberseguridad. Tengo conocimiento en HTML | CSS | JavaScript |  NodeJS | React | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | Heroku |React Native |  TypeScript |
 
@@ -29,17 +29,21 @@ Me considero apasionado por la programación, Una persona emprendedora con mucha
 
 
     Front End 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="CSS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="JS"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="REACT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> |  <img src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg" width="60" alt="REACT"> | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="React Native"> | <img src="https://www.electronjs.org/assets/img/logo.svg" alt="reactnative" width="60" alt="React Native"> | 
-| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | REACT JS  | REDUX | REACT NATIVE  |  ELECTRON  | 
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" alt="CSS"> | <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.MD4sw9im4sftZA5u6mfFSgHaEK%26pid%3DApi&f=1" width="60" alt="BOOTSTRAP"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" alt="HTML"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="javascript"> | <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="TYPESCRIPT"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" alt="REACT"> |  <img src="https://cms-assets.tutsplus.com/uploads/users/1795/posts/30352/preview_image/ReduxLogo.jpg" width="60" alt="REDUX"> | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="60" alt="React Native"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/250px-Blazor.png" alt="reactnative" width="60" alt="BLAZOR"> 
+| :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
+| CSS3  | BOOTSTRAP | HTML5  | JAVASCRIPT | TYPE SCRIPT | REACT JS  | REDUX | REACT NATIVE  | BLAZOR |
 
+    Desktop
 
+| <img src="https://www.electronjs.org/assets/img/logo.svg" alt="reactnative" width="60" alt="ELECTRON"> |
+| :------------: |
+  ELECTRON  | 
 
     En Curso
 
-| <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6McQQU7i--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/j4hwcf7lntmqyha7ras5.png" width="70" alt="CSS"> |
-| :------------: |  
-TYPE SCRIPT |  
+| <img src="https://docs.angular.lat/assets/images/logos/angular/shield-large.svg" width="70" alt="ANGULAR"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thu…-logo-notext.svg/100px-Python-logo-notext.svg.png" width="70" alt="PYTHON">
+| :------------: | :------------: |
+ANGULAR | PYTHON |
 
 
     Extras
